@@ -1,7 +1,7 @@
 # EmotionHunterDEMO
 
 
-Emotion Hunter：End of Hopeless-Public Technical Showcase
+Emotion Hunter：End of Hopeless<br/>Public Technical Showcase
 Project details: <br/>https://kazarimne.github.io/kazarimneweb/<br/><br/>
 Github has limited space only host C#, other files: <br/>https://drive.google.com/drive/folders/1DeybHSawuatHVm6DFRoALjc0sa2SpLwk
 
@@ -76,7 +76,7 @@ Generates a screen shake effect based on external parameters passed into the Tri
 <br/>
 <br/>
 <br/>
-Emotion Hunter：願無末路 開源代碼展示
+Emotion Hunter：願無末路 <br/>開源代碼展示
 遊戲詳情: <br/>https://kazarimne.github.io/kazarimneweb/<br/><br/>
 Github空間有限只能放C#其他檔案放在: <br/>https://drive.google.com/drive/folders/1DeybHSawuatHVm6DFRoALjc0sa2SpLwk
 
