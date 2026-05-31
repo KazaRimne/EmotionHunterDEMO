@@ -78,7 +78,7 @@ Generates a screen shake effect based on external parameters passed into the Tri
 <br/>
 #Emotion Hunter：願無末路 開源代碼展示
 遊戲詳情: <br/>https://kazarimne.github.io/kazarimneweb/<br/><br/>
-Github空間有限只能放C#其他檔案: <br/>https://drive.google.com/drive/folders/1DeybHSawuatHVm6DFRoALjc0sa2SpLwk
+Github空間有限只能放C#其他檔案放在: <br/>https://drive.google.com/drive/folders/1DeybHSawuatHVm6DFRoALjc0sa2SpLwk
 
 此檔案目的為展示遊戲程序可行性與計畫專案的公開展示。所有的C#編程、插畫、動畫、音樂等皆由我本人一人創於，使用Unity 2022開發我的獨立遊戲Emotion Hunter。
 此為技術展示，為了確保智慧財產權僅展示部分，也不提供任何使用方法。
