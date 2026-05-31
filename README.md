@@ -119,6 +119,7 @@ Generates a screen shake effect based on external parameters passed into the Tri
 特效物件池管理：從優化效能的物件池（ObjectPool）中取特定擊中特效（如爆炸、刀光、光球、煙塵），調整特效的生成位置與朝向後，再透過倒數計時安全回收。
 <br/>
 
+
 7. 動態斬擊特效VFX (Sword1Flash.cs):
 Shader屬性控制： 利用 DOTween 即時操作材質屬性，實現流暢的戰鬥視覺回饋。
 物件等級優化： 控制渲染器剔除材質實例化管理，提升資源使用效率。
